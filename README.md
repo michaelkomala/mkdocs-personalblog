@@ -1,1 +1,1 @@
-# mkdocs-personalblog
+# Soft Skill Designer Blog
